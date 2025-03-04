@@ -3,7 +3,7 @@ SmartResume Generator: Customized Resumes for Every Opportunity The Resume Gener
 
 Deploy App Link:
 
-
+https://smart-resume-generator-jnpak4qwbnvfcdys8wbnmd.streamlit.app/
 
 Video Demo :
 
